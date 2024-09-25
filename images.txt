@@ -1,4 +1,5 @@
-bitnami/kube-state-metrics:2
+bitnami/spark:3
+#bitnami/kube-state-metrics:2
 #atlassian/jira-software:8.16.1
 #gitlab/gitlab-ee:15.6.1-ee.0
 #nginx
