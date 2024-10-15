@@ -1,4 +1,6 @@
-grafana/grafana:10.2.2
+goharbor/prepare:v2.4.1
+
+#grafana/grafana:10.2.2
 
 #quay.io/prometheus/alertmanager:v0.23.0
 #jimmidyson/configmap-reload:v0.5.0
