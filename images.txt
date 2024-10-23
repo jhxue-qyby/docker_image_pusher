@@ -1,4 +1,6 @@
-goharbor/prepare:v2.4.1
+emqx/emqx:5.6.0
+
+#goharbor/prepare:v2.4.1
 
 #grafana/grafana:10.2.2
 
