@@ -1,4 +1,6 @@
-bladex/sentinel-dashboard:1.8.3
+anapsix/alpine-java:8_server-jre_unlimited
+
+#bladex/sentinel-dashboard:1.8.3
 
 #keking/kkfileview:4.3.0
 #docker.io/istio/proxyv2:1.15.6
