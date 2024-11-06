@@ -1,4 +1,6 @@
-keking/kkfileview:4.3.0
+bladex/sentinel-dashboard:1.8.3
+
+#keking/kkfileview:4.3.0
 #docker.io/istio/proxyv2:1.15.6
 #docker.io/istio/operator:1.15.6
 #docker.io/istio/install-cni:1.15.6
