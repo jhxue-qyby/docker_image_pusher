@@ -1,4 +1,7 @@
-anapsix/alpine-java:8_server-jre_unlimited
+#postgreSQL 数据库
+docker.io/postgres:12.22
+
+#anapsix/alpine-java:8_server-jre_unlimited
 
 #bladex/sentinel-dashboard:1.8.3
 
