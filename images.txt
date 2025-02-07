@@ -1,5 +1,8 @@
+# nginx镜像
+docker.io/nginx:1.24.0
+
 #postgreSQL 数据库
-docker.io/postgres:12.22
+#docker.io/postgres:12.22
 
 #anapsix/alpine-java:8_server-jre_unlimited
 
